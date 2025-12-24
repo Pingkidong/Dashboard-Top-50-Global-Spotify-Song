@@ -108,7 +108,7 @@ Focuses on detailed song- and artist-level analysis.
 - Album Type vs Popularity
 - Popularity Trends by Duration Buckets
 
-![Dashboard Preview](bd1.jpg)
+![Dashboard Preview](bd2.jpg)
 ---
 
 ## 🔍 Key Insights
