@@ -96,7 +96,7 @@ Provides a high-level summary of the Spotify Global Top 50 chart.
 - Explicit vs Non-Explicit Songs
 - Popularity Over Time
 
-![Dashboard Preview](TOP_50_Spotify(1)_page-0001.jpg)
+![Dashboard Preview](db1.jpg)
 ---
 
 ### Page 2 Song & Artist Deep Dive
@@ -108,7 +108,7 @@ Focuses on detailed song- and artist-level analysis.
 - Album Type vs Popularity
 - Popularity Trends by Duration Buckets
 
-![Dashboard Preview](TOP_50_Spotify_page-0002.jpg)
+![Dashboard Preview](bd1.jpg)
 ---
 
 ## 🔍 Key Insights
